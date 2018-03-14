@@ -1,0 +1,11 @@
+button {
+  width: 200px;
+  height: 50px;
+  background-color: #c92828;
+  border-style: none;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  color: #ffffff;
+}
